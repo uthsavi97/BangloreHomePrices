@@ -1,14 +1,22 @@
 
-In This project series walks through step by step process of how to build a real estate price prediction website. We will first build a model using sklearn and linear regression using banglore home prices dataset from kaggle.com. Second step would be to write a python flask server that uses the saved model to serve http requests. Third component is the website built in html, css and javascript that allows user to enter home square ft area, bedrooms etc and it will call python flask server to retrieve the predicted price. During model building we will cover almost all data science concepts such as data load and cleaning, outlier detection and removal, feature engineering, dimensionality reduction, gridsearchcv for hyperparameter tunning, k fold cross validation etc. 
-
-Technology and tools wise this project covers,
-1. Python
-2. Numpy and Pandas for data cleaning
-3. Matplotlib for data visualization
-4. Sklearn for model building
-5. Jupyter notebook, visual studio code and pycharm as IDE
-6. Python flask for http server
-7. HTML/CSS/Javascript for UI
+I developed a web application that harnesses the power of machine learning to provide accurate and insightful real estate price predictions in Bangalore, India.
+Key Project Features:
+Data-Driven Insights:
+- Rigorously collected and cleaned extensive real estate data to uncover meaningful patterns.
+- Employed sophisticated data visualization techniques to communicate insights effectively. 
+Intelligent Price Prediction:
+- Built a robust machine learning model using linear regression to predict property values with a high degree of accuracy.
+- Optimized model performance through meticulous hyperparameter tuning and cross-validation techniques.
+User-Friendly Web Interface:
+- Designed an intuitive and visually appealing web application using Flask and front-end technologies.
+- Enabled users to seamlessly input property details and receive instant price estimates. 
+Technical Skills Showcased:
+- Python
+- NumPy and Pandas for data manipulation
+- Matplotlib and Seaborn for data visualization
+- Scikit-learn for machine learning modeling
+- Flask for web development
+- HTML/CSS/JavaScript for front-end development
 
 # Deploy this app to cloud (AWS EC2)
 
