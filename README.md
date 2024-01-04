@@ -4,13 +4,13 @@ I developed a web application that harnesses the power of machine learning to pr
 # Data-Driven Insights:
 - Rigorously collected and cleaned extensive real estate data to uncover meaningful patterns.
 - Employed sophisticated data visualization techniques to communicate insights effectively. 
-* Intelligent Price Prediction:
+# Intelligent Price Prediction:
 - Built a robust machine learning model using linear regression to predict property values with a high degree of accuracy.
 - Optimized model performance through meticulous hyperparameter tuning and cross-validation techniques.
-User-Friendly Web Interface:
+# User-Friendly Web Interface:
 - Designed an intuitive and visually appealing web application using Flask and front-end technologies.
 - Enabled users to seamlessly input property details and receive instant price estimates. 
-Technical Skills Showcased:
+# Technical Skills Showcased:
 - Python
 - NumPy and Pandas for data manipulation
 - Matplotlib and Seaborn for data visualization
