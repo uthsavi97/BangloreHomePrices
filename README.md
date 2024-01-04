@@ -1,10 +1,10 @@
 
 I developed a web application that harnesses the power of machine learning to provide accurate and insightful real estate price predictions in Bangalore, India.
-Key Project Features:
-Data-Driven Insights:
+# Key Project Features:
+# Data-Driven Insights:
 - Rigorously collected and cleaned extensive real estate data to uncover meaningful patterns.
 - Employed sophisticated data visualization techniques to communicate insights effectively. 
-Intelligent Price Prediction:
+* Intelligent Price Prediction:
 - Built a robust machine learning model using linear regression to predict property values with a high degree of accuracy.
 - Optimized model performance through meticulous hyperparameter tuning and cross-validation techniques.
 User-Friendly Web Interface:
